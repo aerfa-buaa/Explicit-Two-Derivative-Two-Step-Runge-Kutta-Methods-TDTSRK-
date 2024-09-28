@@ -10,3 +10,6 @@ The code file shows that the order accuracy conditions for TDTSRK by Albrecht's 
 [2] Albrecht P. The Runge–Kutta theory in a nutshell[J]. SIAM Journal on Numerical Analysis, 1996, 33(5): 1712-1735.
 
 [3] Ökten Turaci M, Öziş T. On explicit two-derivative two-step Runge–Kutta methods[J]. Computational and Applied Mathematics, 2018, 37(5): 6920-6954. 
+
+The data and code correspond to our article. Qin, X.  Strong Stability Preserving Two-Derivative Two-Step Runge-Kutta Methods
+ Mathematics 2024, 12(16), 2465; https://doi.org/10.3390/math12162465 
